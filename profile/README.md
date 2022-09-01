@@ -1,2 +1,2 @@
-# Boas vindas ao Archwide 👋
+# 👋 Boas vindas ao Archwide
 
